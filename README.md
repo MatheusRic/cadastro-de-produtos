@@ -2,6 +2,8 @@
 
 [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=cadastro%20de%20produtos&uri=https%3A%2F%2Fraw.githubusercontent.com%2FMatheusRic%2Fcadastro-de-produtos%2Fmain%2Fdata.json)
 
+## Para ter acesso as requisiçoes, e retornos esperados, basta clicar no botao do insomnia, que sera tudo configurado altomaticamente, e voce podera acessar as informaçoes por la, na aba DOCS
+
 # **Iniciando o projeto**
 
 Antes de tudo, crie um banco de dados **POSTGRESQL** utilizando seu gerenciador preferido **"beekeper, Dbeaber etc"**.
