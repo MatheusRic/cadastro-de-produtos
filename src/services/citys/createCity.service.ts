@@ -2,7 +2,7 @@ import ibgeApi from "../../axios";
 import AppDataSource from "../../data-source";
 import City from "../../entities/city.entity";
 
-const createCityService = async () => {
+const createCityService = async (): Promise<City[]> => {
   const cityRepository = AppDataSource.getRepository(City);
 
   const ibge = await ibgeApi();

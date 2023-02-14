@@ -9,7 +9,7 @@ const app = express();
 app.use(express.json());
 
 app.use("/products", productsRoutes);
-app.use("/city", cityRoutes);
+app.use("/citys", cityRoutes);
 app.use(handleErrorMiddleware);
 
 export default app;
