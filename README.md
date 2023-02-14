@@ -25,4 +25,4 @@ Como ORM, utilizamos o **typeORM**, sendo assim, nos precisamos criar as nossas 
 
 ## **Rodando nosso projeto**
 
-Uma vez que voce seguiu todos os passos corretamente, basta abrir seu terminal, e executar o comando `yarn dev`, e pronto... Seu servador ja vai estar rodando em sua maquina local.
+Uma vez que voce seguiu todos os passos corretamente, basta abrir seu terminal, e executar o comando `yarn dev`, e pronto... Seu servidor ja vai estar rodando em sua maquina local.
