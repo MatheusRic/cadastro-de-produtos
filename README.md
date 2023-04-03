@@ -1,5 +1,5 @@
 # Objetivo
-O Objetivo dessa api, é oferecer de maneira imediata, requisiçoes para que seja feito o cadastro de clientes ou pessoas.
+O Objetivo dessa api, é oferecer de maneira imediata, requisiçoes para que seja feito o cadastro de produtos.
 
 # Abrir no insomnia
 
